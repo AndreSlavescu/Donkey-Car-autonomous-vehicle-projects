@@ -21,7 +21,7 @@ Donkey Car is a global initiative that allows users to gain access to a powerful
 
 ###### Warehouse track demo
 
-<img src="https://github.com//master/docs/oak-d_gaze_1.gif?raw=true" width="300px">
+<img src="https://github.com/AndreSlavescu/Donkey-Car-autonomous-vehicle-projects/blob/main/docs/warehouse-lap.gif?raw=true" width="600px">
 
 ### Video Links
 
