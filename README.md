@@ -28,6 +28,4 @@ Donkey Car is a global initiative that allows users to gain access to a powerful
 
 <img src="https://github.com/AndreSlavescu/Donkey-Car-autonomous-vehicle-projects/blob/main/docs/warehouse-lap.gif?raw=true" width="600px">
 
-### Video Links
 
-###### lap around "warehouse track" using canny edge detection [**here**]()
